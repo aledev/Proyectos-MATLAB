@@ -12,4 +12,4 @@ Script Details:
 - "Lab1C1_NewtonRap.m" shows the root for a function using Newton-Raphson Method. It needs 4 parameters to work: function, iterations, tolerance, an initial point. This method use recursion to calculate the root. 
   If you want to test this Newton-Raphson method, here is an example command call: "Lab1C1_NewtonRap('x^3-x-1', 4, 0.00001, 1);".
 
-Hope that some of this scripts helps you ;)!
+Hope that some of these scripts helps you ;)!
